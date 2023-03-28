@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitcherhex-virus.png">
+	
+	
+	<SubTexture name="Hex crazy down0000" x="0" y="0" width="229" height="289" />
+	<SubTexture name="Hex crazy down0001" x="229" y="0" width="212" height="276" frameX="-6" frameY="-13" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy down0002" x="442" y="0" width="218" height="280" frameX="-3" frameY="-9" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy down0003" x="660" y="0" width="222" height="286" frameX="-3" frameY="-3" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy down0004" x="660" y="0" width="222" height="286" frameX="-3" frameY="-3" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy down0005" x="660" y="0" width="222" height="286" frameX="-3" frameY="-3" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy down0006" x="660" y="0" width="222" height="286" frameX="-3" frameY="-3" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy down0007" x="660" y="0" width="222" height="286" frameX="-3" frameY="-3" frameWidth="229" frameHeight="289" />
+	<SubTexture name="Hex crazy idle0000" x="882" y="0" width="200" height="317" frameX="0" frameY="-2" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0001" x="1082" y="0" width="194" height="301" frameX="0" frameY="-18" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0002" x="1082" y="0" width="194" height="301" frameX="0" frameY="-18" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0003" x="1276" y="0" width="188" height="306" frameX="0" frameY="-12" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0004" x="1464" y="0" width="186" height="311" frameX="0" frameY="-7" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0005" x="1464" y="0" width="186" height="311" frameX="0" frameY="-7" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0006" x="1650" y="0" width="198" height="310" frameX="0" frameY="-8" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0007" x="1650" y="0" width="198" height="310" frameX="0" frameY="-8" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0008" x="0" y="317" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0009" x="0" y="317" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0010" x="0" y="317" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0011" x="0" y="317" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0012" x="0" y="317" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0013" x="0" y="317" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0014" x="0" y="317" width="200" height="317" frameX="0" frameY="-2" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0015" x="200" y="317" width="194" height="301" frameX="0" frameY="-18" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0016" x="200" y="317" width="194" height="301" frameX="0" frameY="-18" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0017" x="394" y="317" width="188" height="306" frameX="0" frameY="-12" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0018" x="582" y="317" width="186" height="311" frameX="0" frameY="-7" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0019" x="582" y="317" width="186" height="311" frameX="0" frameY="-7" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0020" x="768" y="317" width="198" height="310" frameX="0" frameY="-8" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0021" x="768" y="317" width="198" height="310" frameX="0" frameY="-8" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0022" x="882" y="0" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0023" x="882" y="0" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0024" x="882" y="0" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0025" x="882" y="0" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0026" x="882" y="0" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy idle0027" x="882" y="0" width="200" height="317" frameX="0" frameY="0" frameWidth="200" frameHeight="319" />
+	<SubTexture name="Hex crazy left0000" x="966" y="317" width="232" height="352" frameX="-9" frameY="0" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0001" x="1199" y="317" width="239" height="337" frameX="0" frameY="-14" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0002" x="1438" y="317" width="238" height="341" frameX="-3" frameY="-10" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0003" x="1676" y="317" width="232" height="346" frameX="-9" frameY="-6" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0004" x="1676" y="317" width="232" height="346" frameX="-9" frameY="-6" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0005" x="1676" y="317" width="232" height="346" frameX="-9" frameY="-6" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0006" x="1676" y="317" width="232" height="346" frameX="-9" frameY="-6" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy left0007" x="1676" y="317" width="232" height="346" frameX="-9" frameY="-6" frameWidth="241" frameHeight="352" />
+	<SubTexture name="Hex crazy right0000" x="0" y="669" width="290" height="309" frameX="0" frameY="0" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0001" x="290" y="669" width="297" height="297" frameX="-5" frameY="-12" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0002" x="588" y="669" width="296" height="304" frameX="-3" frameY="-6" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0003" x="884" y="669" width="293" height="308" frameX="-3" frameY="-2" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0004" x="884" y="669" width="293" height="308" frameX="-3" frameY="-2" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0005" x="884" y="669" width="293" height="308" frameX="-3" frameY="-2" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0006" x="884" y="669" width="293" height="308" frameX="-3" frameY="-2" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy right0007" x="884" y="669" width="293" height="308" frameX="-3" frameY="-2" frameWidth="302" frameHeight="309" />
+	<SubTexture name="Hex crazy up0000" x="1177" y="669" width="240" height="375" />
+	<SubTexture name="Hex crazy up0001" x="1417" y="669" width="240" height="366" frameX="0" frameY="-9" frameWidth="240" frameHeight="375" />
+	<SubTexture name="Hex crazy up0002" x="1657" y="669" width="240" height="372" frameX="0" frameY="-4" frameWidth="240" frameHeight="375" />
+	<SubTexture name="Hex crazy up0003" x="0" y="1045" width="240" height="374" frameX="0" frameY="-1" frameWidth="240" frameHeight="375" />
+	<SubTexture name="Hex crazy up0004" x="0" y="1045" width="240" height="374" frameX="0" frameY="-1" frameWidth="240" frameHeight="375" />
+	<SubTexture name="Hex crazy up0005" x="0" y="1045" width="240" height="374" frameX="0" frameY="-1" frameWidth="240" frameHeight="375" />
+	<SubTexture name="Hex crazy up0006" x="0" y="1045" width="240" height="374" frameX="0" frameY="-1" frameWidth="240" frameHeight="375" />
+	<SubTexture name="Hex crazy up0007" x="0" y="1045" width="240" height="374" frameX="0" frameY="-1" frameWidth="240" frameHeight="375" />
+</TextureAtlas>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hex.png">
+	
+	
+	<SubTexture name="Hex idle instance 10000" x="1061" y="858" width="250" height="367" frameX="0" frameY="-50" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10001" x="15" y="446" width="248" height="375" frameX="0" frameY="-42" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10002" x="15" y="836" width="246" height="375" frameX="-2" frameY="-42" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10003" x="276" y="836" width="246" height="375" frameX="-2" frameY="-42" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10004" x="768" y="443" width="239" height="399" frameX="-3" frameY="-17" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10005" x="1772" y="15" width="235" height="410" frameX="-3" frameY="-7" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10006" x="1772" y="440" width="235" height="410" frameX="-3" frameY="-7" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10007" x="768" y="15" width="236" height="413" frameX="-3" frameY="-3" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10008" x="1019" y="15" width="236" height="413" frameX="-3" frameY="-3" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10009" x="15" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10010" x="15" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10011" x="15" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10012" x="15" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10013" x="15" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10014" x="15" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10015" x="1326" y="866" width="250" height="367" frameX="0" frameY="-50" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10016" x="278" y="446" width="248" height="375" frameX="0" frameY="-42" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10017" x="538" y="858" width="246" height="375" frameX="-2" frameY="-42" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10018" x="799" y="858" width="246" height="375" frameX="-2" frameY="-42" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10019" x="1022" y="443" width="239" height="399" frameX="-3" frameY="-17" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10020" x="1521" y="441" width="235" height="410" frameX="-3" frameY="-7" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10021" x="1521" y="15" width="236" height="411" frameX="-3" frameY="-5" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10022" x="1270" y="15" width="236" height="413" frameX="-3" frameY="-3" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10023" x="517" y="15" width="236" height="415" frameX="-3" frameY="-2" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10024" x="266" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10025" x="266" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10026" x="266" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10027" x="266" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10028" x="266" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+	<SubTexture name="Hex idle instance 10029" x="266" y="15" width="236" height="416" frameX="-3" frameY="0" frameWidth="250" frameHeight="416" />
+</TextureAtlas>

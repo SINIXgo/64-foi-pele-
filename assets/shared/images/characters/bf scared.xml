@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf scared.png">
+	
+	
+	<SubTexture name="Bf idle dance scared0000" x="1448" y="844" width="232" height="189" frameX="-1" frameY="-9" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0001" x="1681" y="227" width="236" height="189" frameX="0" frameY="-9" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0002" x="1702" y="643" width="231" height="190" frameX="-3" frameY="-8" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0003" x="260" y="1076" width="228" height="190" frameX="-3" frameY="-8" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0004" x="955" y="866" width="221" height="198" frameX="-8" frameY="0" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0005" x="1191" y="867" width="221" height="198" frameX="-8" frameY="0" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0006" x="1427" y="1048" width="222" height="197" frameX="-7" frameY="-1" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0007" x="971" y="235" width="224" height="197" frameX="-7" frameY="-1" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0008" x="721" y="447" width="225" height="196" frameX="-7" frameY="-2" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0009" x="1664" y="1060" width="222" height="197" frameX="-7" frameY="-1" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0010" x="1211" y="442" width="224" height="197" frameX="-7" frameY="-1" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0011" x="721" y="447" width="225" height="196" frameX="-7" frameY="-2" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0012" x="1664" y="1060" width="222" height="197" frameX="-7" frameY="-1" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf idle dance scared0013" x="1211" y="442" width="224" height="197" frameX="-7" frameY="-1" frameWidth="236" frameHeight="198" />
+	<SubTexture name="Bf note down0000" x="1450" y="643" width="236" height="186" frameX="0" frameY="-6" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0001" x="742" y="1079" width="233" height="186" frameX="-1" frameY="-6" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0002" x="15" y="872" width="230" height="189" frameX="-3" frameY="-3" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0003" x="260" y="872" width="231" height="188" frameX="-3" frameY="-4" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0004" x="15" y="1076" width="225" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0005" x="254" y="665" width="227" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0006" x="955" y="659" width="228" height="192" frameX="-4" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0007" x="15" y="1076" width="225" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0008" x="254" y="665" width="227" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0009" x="955" y="659" width="228" height="192" frameX="-4" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0010" x="15" y="1076" width="225" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0011" x="254" y="665" width="227" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0012" x="955" y="659" width="228" height="192" frameX="-4" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note down0013" x="15" y="1076" width="225" height="192" frameX="-5" frameY="0" frameWidth="236" frameHeight="192" />
+	<SubTexture name="Bf note left0000" x="481" y="238" width="225" height="200" frameX="-1" frameY="-1" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0001" x="1442" y="227" width="223" height="200" frameX="-1" frameY="0" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0002" x="727" y="234" width="229" height="198" frameX="0" frameY="-3" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0003" x="1686" y="15" width="227" height="197" frameX="-1" frameY="-3" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0004" x="971" y="447" width="224" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0005" x="1442" y="15" width="228" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0006" x="1681" y="431" width="227" height="196" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0007" x="971" y="447" width="224" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0008" x="1442" y="15" width="228" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0009" x="1681" y="431" width="227" height="196" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0010" x="971" y="447" width="224" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0011" x="1442" y="15" width="228" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0012" x="1681" y="431" width="227" height="196" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note left0013" x="971" y="447" width="224" height="197" frameX="-2" frameY="-4" frameWidth="230" frameHeight="200" />
+	<SubTexture name="Bf note right0000" x="719" y="659" width="220" height="199" frameX="-4" frameY="-1" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0001" x="15" y="243" width="218" height="199" frameX="-6" frameY="0" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0002" x="1211" y="654" width="222" height="197" frameX="-4" frameY="-2" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0003" x="481" y="453" width="223" height="197" frameX="-1" frameY="-2" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0004" x="506" y="873" width="221" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0005" x="1696" y="848" width="223" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0006" x="15" y="465" width="224" height="197" frameX="0" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0007" x="506" y="873" width="221" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0008" x="1696" y="848" width="223" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0009" x="15" y="465" width="224" height="197" frameX="0" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0010" x="506" y="873" width="221" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0011" x="1696" y="848" width="223" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0012" x="15" y="465" width="224" height="197" frameX="0" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note right0013" x="506" y="873" width="221" height="197" frameX="-2" frameY="-3" frameWidth="226" frameHeight="199" />
+	<SubTexture name="Bf note up0000" x="15" y="15" width="219" height="213" frameX="-4" frameY="0" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0001" x="249" y="237" width="216" height="213" frameX="-5" frameY="0" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0002" x="489" y="15" width="223" height="208" frameX="-1" frameY="-6" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0003" x="249" y="15" width="224" height="207" frameX="0" frameY="-6" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0004" x="1205" y="15" width="222" height="205" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0005" x="967" y="15" width="223" height="204" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0006" x="727" y="15" width="224" height="204" frameX="0" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0007" x="1205" y="15" width="222" height="205" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0008" x="967" y="15" width="223" height="204" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0009" x="727" y="15" width="224" height="204" frameX="0" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0010" x="1205" y="15" width="222" height="205" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0011" x="967" y="15" width="223" height="204" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0012" x="727" y="15" width="224" height="204" frameX="0" frameY="-9" frameWidth="224" frameHeight="213" />
+	<SubTexture name="Bf note up0013" x="1205" y="15" width="222" height="205" frameX="-1" frameY="-9" frameWidth="224" frameHeight="213" />
+</TextureAtlas>
