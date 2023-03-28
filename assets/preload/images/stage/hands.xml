@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hands.png">
+	
+	
+	<SubTexture name="front dudes instance 10000" x="12" y="12" width="653" height="149" />
+	<SubTexture name="front dudes instance 10001" x="12" y="12" width="653" height="149" />
+	<SubTexture name="front dudes instance 10002" x="12" y="174" width="653" height="146" frameX="0" frameY="-3" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10003" x="12" y="174" width="653" height="146" frameX="0" frameY="-3" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10004" x="12" y="628" width="653" height="130" frameX="0" frameY="-19" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10005" x="12" y="628" width="653" height="130" frameX="0" frameY="-19" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10006" x="12" y="482" width="653" height="133" frameX="0" frameY="-16" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10007" x="12" y="482" width="653" height="133" frameX="0" frameY="-16" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10008" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10009" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10010" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10011" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10012" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10013" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+	<SubTexture name="front dudes instance 10014" x="12" y="333" width="653" height="137" frameX="0" frameY="-12" frameWidth="653" frameHeight="149" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tank0.png">
+	
+	
+	<SubTexture name="fg tankhead far right instance 10000" x="315" y="228" width="155" height="218" frameX="-2" frameY="-7" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10001" x="315" y="228" width="155" height="218" frameX="-2" frameY="-7" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10002" x="0" y="230" width="153" height="220" frameX="-2" frameY="-5" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10003" x="0" y="230" width="153" height="220" frameX="-2" frameY="-5" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10004" x="315" y="0" width="152" height="223" frameX="-1" frameY="-2" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10005" x="315" y="0" width="152" height="223" frameX="-1" frameY="-2" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10006" x="0" y="0" width="153" height="225" frameX="-1" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10007" x="0" y="0" width="153" height="225" frameX="-1" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10008" x="158" y="0" width="152" height="225" frameX="0" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10009" x="158" y="0" width="152" height="225" frameX="0" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10010" x="158" y="0" width="152" height="225" frameX="0" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10011" x="158" y="0" width="152" height="225" frameX="0" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10012" x="158" y="0" width="152" height="225" frameX="0" frameY="0" frameWidth="157" frameHeight="225" />
+	<SubTexture name="fg tankhead far right instance 10013" x="158" y="0" width="152" height="225" frameX="0" frameY="0" frameWidth="157" frameHeight="225" />
+</TextureAtlas>

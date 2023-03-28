@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="girls.png">
+	
+	
+	<SubTexture name="AAbiAlt0000" x="267" y="564" width="71" height="111" />
+	<SubTexture name="AAbiAlt0001" x="267" y="564" width="71" height="111" />
+	<SubTexture name="AAbiAlt0002" x="611" y="576" width="71" height="111" />
+	<SubTexture name="AAbiAlt0003" x="611" y="576" width="71" height="111" />
+	<SubTexture name="Abi0000" x="864" y="533" width="74" height="110" frameX="0" frameY="-1" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0001" x="864" y="533" width="74" height="110" frameX="0" frameY="-1" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0002" x="91" y="576" width="70" height="109" frameX="-1" frameY="-2" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0003" x="91" y="576" width="70" height="109" frameX="-1" frameY="-2" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0004" x="459" y="577" width="68" height="109" frameX="-2" frameY="-3" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0005" x="459" y="577" width="68" height="109" frameX="-2" frameY="-3" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0006" x="177" y="576" width="69" height="111" frameX="-2" frameY="-1" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0007" x="177" y="576" width="69" height="111" frameX="-2" frameY="-1" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0008" x="698" y="576" width="71" height="111" frameX="-2" frameY="0" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0009" x="698" y="576" width="71" height="111" frameX="-2" frameY="0" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0010" x="372" y="562" width="71" height="111" frameX="-2" frameY="0" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0011" x="372" y="562" width="71" height="111" frameX="-2" frameY="0" frameWidth="74" frameHeight="111" />
+	<SubTexture name="Abi0012" x="372" y="562" width="71" height="111" frameX="-2" frameY="0" frameWidth="74" frameHeight="111" />
+	<SubTexture name="AcharaAlt0000" x="542" y="577" width="53" height="93" />
+	<SubTexture name="AcharaAlt0001" x="542" y="577" width="53" height="93" />
+	<SubTexture name="AcharaAlt0002" x="934" y="658" width="53" height="93" />
+	<SubTexture name="AcharaAlt0003" x="934" y="658" width="53" height="93" />
+	<SubTexture name="AcocoAlt0000" x="922" y="357" width="61" height="161" />
+	<SubTexture name="AcocoAlt0001" x="922" y="357" width="61" height="161" />
+	<SubTexture name="AcocoAlt0002" x="637" y="400" width="61" height="161" />
+	<SubTexture name="AcocoAlt0003" x="637" y="400" width="61" height="161" />
+	<SubTexture name="AgirlFirstAlt0000" x="433" y="15" width="88" height="201" />
+	<SubTexture name="AgirlFirstAlt0001" x="433" y="15" width="88" height="201" />
+	<SubTexture name="AgirlFirstAlt0002" x="536" y="15" width="88" height="201" />
+	<SubTexture name="AgirlFirstAlt0003" x="536" y="15" width="88" height="201" />
+	<SubTexture name="AgirlSecondAlt0000" x="845" y="185" width="86" height="157" />
+	<SubTexture name="AgirlSecondAlt0001" x="845" y="185" width="86" height="157" />
+	<SubTexture name="AgirlSecondAlt0002" x="15" y="229" width="86" height="157" />
+	<SubTexture name="AgirlSecondAlt0003" x="15" y="229" width="86" height="157" />
+	<SubTexture name="AgirlThirdAlt0000" x="377" y="403" width="59" height="144" />
+	<SubTexture name="AgirlThirdAlt0001" x="377" y="403" width="59" height="144" />
+	<SubTexture name="AgirlThirdAlt0002" x="451" y="403" width="59" height="144" />
+	<SubTexture name="AgirlThirdAlt0003" x="451" y="403" width="59" height="144" />
+	<SubTexture name="chara0000" x="15" y="577" width="56" height="93" frameX="0" frameY="-1" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0001" x="15" y="577" width="56" height="93" frameX="0" frameY="-1" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0002" x="353" y="689" width="54" height="91" frameX="-1" frameY="-3" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0003" x="353" y="689" width="54" height="91" frameX="-1" frameY="-3" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0004" x="864" y="658" width="55" height="91" frameX="0" frameY="-2" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0005" x="864" y="658" width="55" height="91" frameX="0" frameY="-2" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0006" x="784" y="687" width="53" height="93" frameX="-1" frameY="-1" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0007" x="784" y="687" width="53" height="93" frameX="-1" frameY="-1" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0008" x="15" y="685" width="53" height="93" frameX="-1" frameY="0" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0009" x="15" y="685" width="53" height="93" frameX="-1" frameY="0" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0010" x="542" y="685" width="53" height="93" frameX="-1" frameY="0" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0011" x="542" y="685" width="53" height="93" frameX="-1" frameY="0" frameWidth="56" frameHeight="93" />
+	<SubTexture name="chara0012" x="542" y="685" width="53" height="93" frameX="-1" frameY="0" frameWidth="56" frameHeight="93" />
+	<SubTexture name="coco0000" x="843" y="357" width="63" height="157" frameX="-1" frameY="-4" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0001" x="843" y="357" width="63" height="157" frameX="-1" frameY="-4" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0002" x="298" y="233" width="64" height="156" frameX="0" frameY="-5" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0003" x="298" y="233" width="64" height="156" frameX="0" frameY="-5" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0004" x="219" y="233" width="64" height="159" frameX="0" frameY="-2" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0005" x="219" y="233" width="64" height="159" frameX="0" frameY="-2" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0006" x="116" y="400" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0007" x="116" y="400" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0008" x="15" y="401" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0009" x="15" y="401" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0010" x="535" y="401" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0011" x="535" y="401" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="coco0012" x="535" y="401" width="61" height="161" frameX="-2" frameY="0" frameWidth="64" frameHeight="161" />
+	<SubTexture name="girlFirst0000" x="639" y="15" width="87" height="201" frameX="0" frameY="-2" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0001" x="639" y="15" width="87" height="201" frameX="0" frameY="-2" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0002" x="742" y="15" width="88" height="199" frameX="-3" frameY="-4" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0003" x="742" y="15" width="88" height="199" frameX="-3" frameY="-4" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0004" x="15" y="15" width="92" height="199" frameX="-1" frameY="-4" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0005" x="15" y="15" width="92" height="199" frameX="-1" frameY="-4" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0006" x="122" y="15" width="89" height="201" frameX="-1" frameY="-2" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0007" x="122" y="15" width="89" height="201" frameX="-1" frameY="-2" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0008" x="227" y="15" width="88" height="203" frameX="-1" frameY="0" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0009" x="227" y="15" width="88" height="203" frameX="-1" frameY="0" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0010" x="330" y="15" width="88" height="203" frameX="-1" frameY="0" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0011" x="330" y="15" width="88" height="203" frameX="-1" frameY="0" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlFirst0012" x="330" y="15" width="88" height="203" frameX="-1" frameY="0" frameWidth="93" frameHeight="203" />
+	<SubTexture name="girlSecond0000" x="845" y="15" width="90" height="155" frameX="-2" frameY="-2" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0001" x="845" y="15" width="90" height="155" frameX="-2" frameY="-2" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0002" x="637" y="231" width="88" height="153" frameX="-1" frameY="-4" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0003" x="637" y="231" width="88" height="153" frameX="-1" frameY="-4" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0004" x="116" y="231" width="88" height="154" frameX="0" frameY="-3" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0005" x="116" y="231" width="88" height="154" frameX="0" frameY="-3" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0006" x="535" y="231" width="87" height="155" frameX="-1" frameY="-2" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0007" x="535" y="231" width="87" height="155" frameX="-1" frameY="-2" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0008" x="742" y="229" width="86" height="157" frameX="-2" frameY="0" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0009" x="742" y="229" width="86" height="157" frameX="-2" frameY="0" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0010" x="433" y="231" width="86" height="157" frameX="-2" frameY="0" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0011" x="433" y="231" width="86" height="157" frameX="-2" frameY="0" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlSecond0012" x="433" y="231" width="86" height="157" frameX="-2" frameY="0" frameWidth="91" frameHeight="157" />
+	<SubTexture name="girlThird0000" x="193" y="407" width="59" height="143" frameX="-3" frameY="-1" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0001" x="193" y="407" width="59" height="143" frameX="-3" frameY="-1" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0002" x="790" y="529" width="59" height="143" frameX="-2" frameY="-2" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0003" x="790" y="529" width="59" height="143" frameX="-2" frameY="-2" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0004" x="714" y="401" width="61" height="144" frameX="0" frameY="-1" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0005" x="714" y="401" width="61" height="144" frameX="0" frameY="-1" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0006" x="950" y="15" width="58" height="144" frameX="-2" frameY="0" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0007" x="950" y="15" width="58" height="144" frameX="-2" frameY="0" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0008" x="950" y="174" width="58" height="144" frameX="-3" frameY="0" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0009" x="950" y="174" width="58" height="144" frameX="-3" frameY="0" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0010" x="298" y="404" width="59" height="144" frameX="-3" frameY="0" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0011" x="298" y="404" width="59" height="144" frameX="-3" frameY="0" frameWidth="62" frameHeight="144" />
+	<SubTexture name="girlThird0012" x="298" y="404" width="59" height="144" frameX="-3" frameY="0" frameWidth="62" frameHeight="144" />
+</TextureAtlas>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="foreground.png">
+	
+	
+	<SubTexture name="1garcello iris0000" x="1755" y="754" width="204" height="315" />
+	<SubTexture name="1garcello iris0001" x="516" y="1270" width="204" height="315" />
+	<SubTexture name="1garcello iris0002" x="516" y="1270" width="204" height="315" />
+	<SubTexture name="1garcello iris0003" x="516" y="1600" width="204" height="315" />
+	<SubTexture name="1garcello iris0004" x="516" y="1600" width="204" height="315" />
+	<SubTexture name="1garcello iris0005" x="1755" y="754" width="204" height="315" />
+	<SubTexture name="1garcello iris0006" x="1755" y="754" width="204" height="315" />
+	<SubTexture name="1garcello iris0007" x="516" y="1270" width="204" height="315" />
+	<SubTexture name="1garcello iris0008" x="516" y="1270" width="204" height="315" />
+	<SubTexture name="1garcello iris0009" x="516" y="1600" width="204" height="315" />
+	<SubTexture name="1garcello iris0010" x="516" y="1600" width="204" height="315" />
+	<SubTexture name="1garcello iris0011" x="1755" y="754" width="204" height="315" />
+	<SubTexture name="1garcello iris0012" x="1755" y="754" width="204" height="315" />
+	<SubTexture name="1garcello iris0013" x="516" y="1270" width="204" height="315" />
+	<SubTexture name="1pico iris0000" x="1358" y="1380" width="196" height="283" frameX="-1" frameY="0" frameWidth="196" frameHeight="283" />
+	<SubTexture name="1pico iris0001" x="1146" y="1550" width="196" height="283" />
+	<SubTexture name="1pico iris0002" x="1146" y="1550" width="196" height="283" />
+	<SubTexture name="1pico iris0003" x="1351" y="1082" width="196" height="283" />
+	<SubTexture name="1pico iris0004" x="1351" y="1082" width="196" height="283" />
+	<SubTexture name="1pico iris0005" x="1358" y="1380" width="196" height="283" frameX="-1" frameY="0" frameWidth="196" frameHeight="283" />
+	<SubTexture name="1pico iris0006" x="1358" y="1380" width="196" height="283" frameX="-1" frameY="0" frameWidth="196" frameHeight="283" />
+	<SubTexture name="1pico iris0007" x="1146" y="1550" width="196" height="283" />
+	<SubTexture name="1pico iris0008" x="1146" y="1550" width="196" height="283" />
+	<SubTexture name="1pico iris0009" x="1351" y="1082" width="196" height="283" />
+	<SubTexture name="1pico iris0010" x="1351" y="1082" width="196" height="283" />
+	<SubTexture name="1pico iris0011" x="1358" y="1380" width="196" height="283" frameX="-1" frameY="0" frameWidth="196" frameHeight="283" />
+	<SubTexture name="1pico iris0012" x="1358" y="1380" width="196" height="283" frameX="-1" frameY="0" frameWidth="196" frameHeight="283" />
+	<SubTexture name="1pico iris0013" x="1146" y="1550" width="196" height="283" />
+	<SubTexture name="1ruv iris0000" x="1241" y="440" width="208" height="423" frameX="0" frameY="0" frameWidth="209" frameHeight="423" />
+	<SubTexture name="1ruv iris0001" x="1241" y="440" width="208" height="423" frameX="0" frameY="0" frameWidth="209" frameHeight="423" />
+	<SubTexture name="1ruv iris0002" x="793" y="453" width="209" height="423" />
+	<SubTexture name="1ruv iris0003" x="793" y="453" width="209" height="423" />
+	<SubTexture name="1ruv iris0004" x="1017" y="447" width="209" height="423" />
+	<SubTexture name="1ruv iris0005" x="1017" y="447" width="209" height="423" />
+	<SubTexture name="1ruv iris0006" x="1241" y="440" width="208" height="423" frameX="0" frameY="0" frameWidth="209" frameHeight="423" />
+	<SubTexture name="1ruv iris0007" x="1241" y="440" width="208" height="423" frameX="0" frameY="0" frameWidth="209" frameHeight="423" />
+	<SubTexture name="1ruv iris0008" x="793" y="453" width="209" height="423" />
+	<SubTexture name="1ruv iris0009" x="793" y="453" width="209" height="423" />
+	<SubTexture name="1ruv iris0010" x="1017" y="447" width="209" height="423" />
+	<SubTexture name="1ruv iris0011" x="1017" y="447" width="209" height="423" />
+	<SubTexture name="1ruv iris0012" x="1241" y="440" width="208" height="423" frameX="0" frameY="0" frameWidth="209" frameHeight="423" />
+	<SubTexture name="1ruv iris0013" x="1241" y="440" width="208" height="423" frameX="0" frameY="0" frameWidth="209" frameHeight="423" />
+	<SubTexture name="1tankman iris0000" x="1465" y="444" width="275" height="304" />
+	<SubTexture name="1tankman iris0001" x="1465" y="444" width="275" height="304" />
+	<SubTexture name="1tankman iris0002" x="1465" y="763" width="275" height="304" />
+	<SubTexture name="1tankman iris0003" x="1465" y="763" width="275" height="304" />
+	<SubTexture name="1tankman iris0004" x="282" y="951" width="274" height="304" frameX="-1" frameY="0" frameWidth="275" frameHeight="304" />
+	<SubTexture name="1tankman iris0005" x="282" y="951" width="274" height="304" frameX="-1" frameY="0" frameWidth="275" frameHeight="304" />
+	<SubTexture name="1tankman iris0006" x="1465" y="444" width="275" height="304" />
+	<SubTexture name="1tankman iris0007" x="1465" y="444" width="275" height="304" />
+	<SubTexture name="1tankman iris0008" x="1465" y="763" width="275" height="304" />
+	<SubTexture name="1tankman iris0009" x="1465" y="763" width="275" height="304" />
+	<SubTexture name="1tankman iris0010" x="282" y="951" width="274" height="304" frameX="-1" frameY="0" frameWidth="275" frameHeight="304" />
+	<SubTexture name="1tankman iris0011" x="282" y="951" width="274" height="304" frameX="-1" frameY="0" frameWidth="275" frameHeight="304" />
+	<SubTexture name="1tankman iris0012" x="1465" y="444" width="275" height="304" />
+	<SubTexture name="1tankman iris0013" x="1465" y="444" width="275" height="304" />
+	<SubTexture name="1whitty iris0000" x="15" y="15" width="257" height="453" />
+	<SubTexture name="1whitty iris0001" x="15" y="15" width="257" height="453" />
+	<SubTexture name="1whitty iris0002" x="15" y="483" width="257" height="453" />
+	<SubTexture name="1whitty iris0003" x="15" y="483" width="257" height="453" />
+	<SubTexture name="1whitty iris0004" x="287" y="15" width="257" height="453" frameX="-1" frameY="0" frameWidth="257" frameHeight="453" />
+	<SubTexture name="1whitty iris0005" x="287" y="15" width="257" height="453" frameX="-1" frameY="0" frameWidth="257" frameHeight="453" />
+	<SubTexture name="1whitty iris0006" x="15" y="15" width="257" height="453" />
+	<SubTexture name="1whitty iris0007" x="15" y="15" width="257" height="453" />
+	<SubTexture name="1whitty iris0008" x="15" y="483" width="257" height="453" />
+	<SubTexture name="1whitty iris0009" x="15" y="483" width="257" height="453" />
+	<SubTexture name="1whitty iris0010" x="287" y="15" width="257" height="453" frameX="-1" frameY="0" frameWidth="257" frameHeight="453" />
+	<SubTexture name="1whitty iris0011" x="287" y="15" width="257" height="453" frameX="-1" frameY="0" frameWidth="257" frameHeight="453" />
+	<SubTexture name="1whitty iris0012" x="15" y="15" width="257" height="453" />
+	<SubTexture name="1whitty iris0013" x="15" y="15" width="257" height="453" />
+	<SubTexture name="garcello0000" x="735" y="1218" width="196" height="315" frameX="0" frameY="-12" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0001" x="735" y="1218" width="196" height="315" frameX="0" frameY="-12" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0002" x="735" y="1548" width="194" height="316" frameX="-5" frameY="-11" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0003" x="735" y="1548" width="194" height="316" frameX="-5" frameY="-11" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0004" x="946" y="1211" width="188" height="324" frameX="-6" frameY="-2" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0005" x="946" y="1211" width="188" height="324" frameX="-6" frameY="-2" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0006" x="944" y="1550" width="187" height="326" frameX="-5" frameY="-1" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0007" x="944" y="1550" width="187" height="326" frameX="-5" frameY="-1" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0008" x="1150" y="1205" width="186" height="326" frameX="-5" frameY="0" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0009" x="1150" y="1205" width="186" height="326" frameX="-5" frameY="0" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0010" x="1150" y="1205" width="186" height="326" frameX="-5" frameY="0" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0011" x="1150" y="1205" width="186" height="326" frameX="-5" frameY="0" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0012" x="1150" y="1205" width="186" height="326" frameX="-5" frameY="0" frameWidth="199" frameHeight="326" />
+	<SubTexture name="garcello0013" x="1150" y="1205" width="186" height="326" frameX="-5" frameY="0" frameWidth="199" frameHeight="326" />
+	<SubTexture name="pico0000" x="1563" y="1085" width="191" height="270" frameX="0" frameY="-11" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0001" x="1563" y="1085" width="191" height="270" frameX="0" frameY="-11" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0002" x="1769" y="1085" width="180" height="276" frameX="-4" frameY="-5" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0003" x="1769" y="1085" width="180" height="276" frameX="-4" frameY="-5" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0004" x="1569" y="1370" width="182" height="281" frameX="-4" frameY="0" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0005" x="1569" y="1370" width="182" height="281" frameX="-4" frameY="0" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0006" x="1557" y="1678" width="184" height="281" frameX="-4" frameY="0" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0007" x="1557" y="1678" width="184" height="281" frameX="-4" frameY="0" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0008" x="1358" y="1678" width="184" height="280" frameX="-4" frameY="-1" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0009" x="1358" y="1678" width="184" height="280" frameX="-4" frameY="-1" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0010" x="1358" y="1678" width="184" height="280" frameX="-4" frameY="-1" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0011" x="1358" y="1678" width="184" height="280" frameX="-4" frameY="-1" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0012" x="1358" y="1678" width="184" height="280" frameX="-4" frameY="-1" frameWidth="191" frameHeight="281" />
+	<SubTexture name="pico0013" x="1358" y="1678" width="184" height="280" frameX="-4" frameY="-1" frameWidth="191" frameHeight="281" />
+	<SubTexture name="ruv0000" x="1328" y="15" width="247" height="395" frameX="0" frameY="-23" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0001" x="1328" y="15" width="247" height="395" frameX="0" frameY="-23" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0002" x="544" y="483" width="234" height="411" frameX="-11" frameY="-7" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0003" x="544" y="483" width="234" height="411" frameX="-11" frameY="-7" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0004" x="271" y="1374" width="229" height="418" frameX="-14" frameY="0" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0005" x="271" y="1374" width="229" height="418" frameX="-14" frameY="0" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0006" x="1590" y="15" width="234" height="414" frameX="-9" frameY="-5" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0007" x="1590" y="15" width="234" height="414" frameX="-9" frameY="-5" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0008" x="1074" y="15" width="239" height="410" frameX="-4" frameY="-8" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0009" x="1074" y="15" width="239" height="410" frameX="-4" frameY="-8" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0010" x="1074" y="15" width="239" height="410" frameX="-4" frameY="-8" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0011" x="1074" y="15" width="239" height="410" frameX="-4" frameY="-8" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0012" x="1074" y="15" width="239" height="410" frameX="-4" frameY="-8" frameWidth="247" frameHeight="418" />
+	<SubTexture name="ruv0013" x="1074" y="15" width="239" height="410" frameX="-4" frameY="-8" frameWidth="247" frameHeight="418" />
+	<SubTexture name="tankman0000" x="572" y="909" width="238" height="294" frameX="0" frameY="-11" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0001" x="572" y="909" width="238" height="294" frameX="0" frameY="-11" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0002" x="1755" y="444" width="232" height="295" frameX="-5" frameY="-9" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0003" x="1755" y="444" width="232" height="295" frameX="-5" frameY="-9" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0004" x="825" y="891" width="228" height="304" frameX="-7" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0005" x="825" y="891" width="228" height="304" frameX="-7" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0006" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0007" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0008" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0009" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0010" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0011" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0012" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="tankman0013" x="1068" y="885" width="228" height="304" frameX="-8" frameY="0" frameWidth="238" frameHeight="304" />
+	<SubTexture name="whitty0000" x="15" y="951" width="252" height="408" frameX="0" frameY="-16" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0001" x="15" y="951" width="252" height="408" frameX="0" frameY="-16" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0002" x="816" y="15" width="243" height="417" frameX="-5" frameY="-7" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0003" x="816" y="15" width="243" height="417" frameX="-5" frameY="-7" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0004" x="287" y="483" width="241" height="424" frameX="-6" frameY="0" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0005" x="287" y="483" width="241" height="424" frameX="-6" frameY="0" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0006" x="559" y="15" width="241" height="423" frameX="-6" frameY="-1" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0007" x="559" y="15" width="241" height="423" frameX="-6" frameY="-1" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0008" x="15" y="1374" width="241" height="422" frameX="-6" frameY="-2" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0009" x="15" y="1374" width="241" height="422" frameX="-6" frameY="-2" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0010" x="15" y="1374" width="241" height="422" frameX="-6" frameY="-2" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0011" x="15" y="1374" width="241" height="422" frameX="-6" frameY="-2" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0012" x="15" y="1374" width="241" height="422" frameX="-6" frameY="-2" frameWidth="252" frameHeight="424" />
+	<SubTexture name="whitty0013" x="15" y="1374" width="241" height="422" frameX="-6" frameY="-2" frameWidth="252" frameHeight="424" />
+</TextureAtlas>
