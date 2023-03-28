@@ -58,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				2,
+				3,
 				19
 			],
 			"anim": "singLEFTmiss",
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-24,
-				-20
+				-17,
+				-22
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-42,
+				-44,
 				26
 			],
 			"anim": "singUPmiss",
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				19
+				-45,
+				20
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,8 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-6,
-				-10
+				-10,
+				-14
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -124,7 +124,7 @@
 		{
 			"loop": true,
 			"offsets": [
-				-8,
+				-4,
 				0
 			],
 			"anim": "scared",
@@ -197,10 +197,21 @@
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-35
+			],
+			"anim": "hypno",
+			"fps": 24,
+			"name": "BF hypno",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF DEFAULT NORM",
+	"image": "characters/BF DEFAULT",
 	"position": [
 		100,
 		460

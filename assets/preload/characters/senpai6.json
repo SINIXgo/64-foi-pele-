@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "senpai idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "senpai left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "senpai down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "senpai up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "senpai right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "senpai Idle pissed"
+		},
+		{
+			"offsets": [
+				37,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "senpai Left pissed"
+		},
+		{
+			"offsets": [
+				-82,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "senpai Right pissed"
+		},
+		{
+			"offsets": [
+				-10,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "senpai Down pissed"
+		},
+		{
+			"offsets": [
+				-49,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "senpai Up pissed"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				114
+			],
+			"anim": "anim",
+			"fps": 24,
+			"name": "senpai mic hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				0
+			],
+			"anim": "change",
+			"fps": 24,
+			"name": "senpai change",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "2change",
+			"indices": [],
+			"name": "senpai back change"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/senpai6",
+	"position": [
+		100,
+		160
+	],
+	"healthicon": "icon-senpai",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		-100,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

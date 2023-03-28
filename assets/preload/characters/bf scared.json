@@ -3,107 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-7,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				2,
-				-8
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-28,
-				-45
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-53,
-				28
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-51,
-				-6
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				2,
-				19
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-24,
-				-20
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-42,
-				26
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-44,
-				19
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-6,
-				-10
+				-10,
+				-14
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -124,7 +25,7 @@
 		{
 			"loop": true,
 			"offsets": [
-				-8,
+				-4,
 				0
 			],
 			"anim": "scared",
@@ -197,13 +98,68 @@
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bf idle dance scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bf note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				125
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bf note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bf note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bf note left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF DEFAULT NORM",
+	"image": "characters/bf scared",
 	"position": [
-		100,
-		460
+		-400,
+		630
 	],
 	"healthicon": "bf-updike",
 	"flip_x": true,
@@ -213,9 +169,9 @@
 		91
 	],
 	"camera_position": [
-		20,
-		-90
+		140,
+		-490
 	],
 	"sing_duration": 5.99999999999999,
-	"scale": 2
+	"scale": 3.4
 }

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Updike right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Updike left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Updike down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Updike up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Updike studing idle"
+		},
+		{
+			"offsets": [
+				25,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Updike studing left"
+		},
+		{
+			"offsets": [
+				-22,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Updike studing right"
+		},
+		{
+			"offsets": [
+				-2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Updike studing up"
+		},
+		{
+			"offsets": [
+				-12,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Updike studing down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Updike idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/updike alt",
+	"position": [
+		120,
+		240
+	],
+	"healthicon": "updike-alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		-200
+	],
+	"sing_duration": 6.5,
+	"scale": 2.2
+}

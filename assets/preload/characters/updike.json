@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Updike right"
+		},
+		{
+			"offsets": [
+				25,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Updike left"
+		},
+		{
+			"offsets": [
+				-13,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Updike down"
+		},
+		{
+			"offsets": [
+				-2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Updike up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Updike studing idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				7
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Updike studing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Updike studing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				20
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Updike studing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-12
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Updike studing down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Updike idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "out",
+			"indices": [],
+			"name": "Updike out"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hypno",
+			"fps": 24,
+			"name": "Updike hypno",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/updike",
+	"position": [
+		130,
+		240
+	],
+	"healthicon": "updike",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		119,
+		148
+	],
+	"camera_position": [
+		-80,
+		-210
+	],
+	"sing_duration": 6.5,
+	"scale": 2.2
+}

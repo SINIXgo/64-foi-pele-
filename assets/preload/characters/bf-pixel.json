@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				7,
 				0
 			],
 			"anim": "singUPmiss",
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				7,
 				0
 			],
 			"anim": "singUP",
@@ -58,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				7,
 				0
 			],
 			"anim": "singRIGHT",
@@ -69,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				7,
 				0
 			],
 			"anim": "singRIGHTmiss",
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				7,
 				0
 			],
 			"anim": "singDOWN",
@@ -91,7 +91,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				7,
 				0
 			],
 			"anim": "singDOWNmiss",
@@ -103,8 +103,8 @@
 	"no_antialiasing": true,
 	"image": "characters/bfPixel",
 	"position": [
-		0,
-		350
+		200,
+		470
 	],
 	"healthicon": "bf-pixel",
 	"flip_x": true,
@@ -114,9 +114,9 @@
 		246
 	],
 	"camera_position": [
-		50,
-		-60
+		170,
+		-220
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 7
 }

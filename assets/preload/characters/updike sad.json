@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "updike sad idle"
+		},
+		{
+			"offsets": [
+				32,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "updike sad left"
+		},
+		{
+			"offsets": [
+				13,
+				-34
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "updike sad down"
+		},
+		{
+			"offsets": [
+				-9,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "updike sad up"
+		},
+		{
+			"offsets": [
+				-30,
+				-15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "updike sad right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/updike sad",
+	"position": [
+		550,
+		-40
+	],
+	"healthicon": "updike",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-330,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

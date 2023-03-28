@@ -1,110 +1,77 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
+				-10,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				65,
-				9
-			],
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico Note Right0"
+			"name": "Pico Idle Dance",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-68,
+				67,
+				6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-77,
 				-7
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-60,
-				41
+				-27,
+				37
 			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				62,
-				64
-			],
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				200,
-				-70
+				-79
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				210,
-				-28
+				-4,
+				160
 			],
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Pico Down Note MISS"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-19,
-				67
-			],
 			"fps": 24,
-			"anim": "singUPmiss",
+			"anim": "spin",
 			"indices": [],
-			"name": "pico Up note miss"
+			"name": "PICO SPIN GUN"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/Pico UPDIKE",
 	"position": [
-		0,
-		300
+		140,
+		460
 	],
 	"healthicon": "pico",
 	"flip_x": true,
@@ -114,9 +81,9 @@
 		85
 	],
 	"camera_position": [
-		0,
-		0
+		-200,
+		-340
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

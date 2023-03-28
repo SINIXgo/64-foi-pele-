@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hex crazy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hex crazy down"
+		},
+		{
+			"offsets": [
+				190,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hex crazy left"
+		},
+		{
+			"offsets": [
+				77,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hex crazy up"
+		},
+		{
+			"offsets": [
+				-80,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hex crazy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glitcherhex-virus",
+	"position": [
+		110,
+		160
+	],
+	"healthicon": "icon-hex",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		82,
+		128
+	],
+	"camera_position": [
+		-160,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
