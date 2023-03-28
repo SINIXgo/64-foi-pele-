@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="back first layer wire.png">
+	
+	
+	<SubTexture name="back first layer0000" x="15" y="15" width="1255" height="388" />
+	<SubTexture name="back first layer0001" x="15" y="15" width="1255" height="388" />
+	<SubTexture name="back first layer0002" x="15" y="15" width="1255" height="388" />
+	<SubTexture name="back first layer0003" x="15" y="418" width="1255" height="388" />
+	<SubTexture name="back first layer0004" x="15" y="822" width="1255" height="388" />
+	<SubTexture name="back first layer0005" x="15" y="822" width="1255" height="388" />
+	<SubTexture name="back first layer0006" x="15" y="822" width="1255" height="388" />
+</TextureAtlas>

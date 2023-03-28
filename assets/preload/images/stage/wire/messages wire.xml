@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="messages wire.png">
+	
+	
+	<SubTexture name="messages0000" x="15" y="15" width="1309" height="243" />
+	<SubTexture name="messages0001" x="15" y="273" width="1309" height="243" />
+</TextureAtlas>
